@@ -153,3 +153,9 @@ python labs/03_euler_phasor.py
 - MacTutor, Leonhard Euler: https://mathshistory.st-andrews.ac.uk/Biographies/Euler/
 - Needham, *Visual Complex Analysis*.
 - Stein & Shakarchi, *Complex Analysis*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P01《工程数学·复变函数》第四版补复数与解析函数基础，再读本页复指数与旋转。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#complex)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

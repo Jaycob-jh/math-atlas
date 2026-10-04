@@ -166,3 +166,9 @@ chaos → nonlinear ODE。
 - Boyce & DiPrima, *Elementary Differential Equations*.
 - Evans, *Partial Differential Equations*.
 - MacTutor historical overview: https://mathshistory.st-andrews.ac.uk/HistTopics/History_overview/
+
+## 新增教材阅读入口（2026-10-05）
+
+P07蔡燧林第三版、L05王高雄等第三版、L01英文第11版可作为不同主教材；L04是数学物理方程辅导书。按初值／边值问题与先修选择。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#dynamics)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

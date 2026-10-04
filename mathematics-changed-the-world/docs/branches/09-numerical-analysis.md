@@ -133,3 +133,9 @@ Lebesgue → function space 与收敛；
 - SIAM, History of Numerical Analysis and Scientific Computing: https://history.siam.org/
 - Higham, *Accuracy and Stability of Numerical Algorithms*.
 - Trefethen & Bau, *Numerical Linear Algebra*.
+
+## 新增教材阅读入口（2026-10-05）
+
+L14《利用Python进行数据分析》第二版补NumPy与数据整理；L11 Matrix Cookbook仅供矩阵公式速查，数值稳定性仍需单独分析。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#computing)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

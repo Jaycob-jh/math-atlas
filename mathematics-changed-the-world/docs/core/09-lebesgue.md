@@ -206,3 +206,9 @@ Lebesgue → $L^p$ spaces → Hilbert/Banach spaces → functional analysis → 
 - MacTutor, Henri Lebesgue: https://mathshistory.st-andrews.ac.uk/Biographies/Lebesgue/
 - Royden & Fitzpatrick, *Real Analysis*.
 - Folland, *Real Analysis*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P05《实变函数与泛函分析基础》第三版补测度、可测函数与积分；外部入口为第四版，旧版页码须单独核对。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#measure)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

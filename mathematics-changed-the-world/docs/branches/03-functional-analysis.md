@@ -154,3 +154,9 @@ $$
 - MacTutor, Stefan Banach: https://mathshistory.st-andrews.ac.uk/Biographies/Banach/
 - Kreyszig, *Introductory Functional Analysis with Applications*.
 - Conway, *A Course in Functional Analysis*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P05实变／泛函教材补赋范空间和线性算子；先修为数学分析与线性代数。本轮未审计全书定理。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#measure)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

@@ -145,3 +145,9 @@ python labs/02_taylor_animation.py
 - MacTutor, Brook Taylor: https://mathshistory.st-andrews.ac.uk/Biographies/Taylor/
 - Rudin, *Principles of Mathematical Analysis*.
 - Burden & Faires, *Numerical Analysis*.
+
+## 新增教材阅读入口（2026-10-05）
+
+L06目录第4章是一元微分中值定理与Taylor展开，第9章含多变量Taylor公式；P06可作方法练习。页码和题号按实际版次核对。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#analysis)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

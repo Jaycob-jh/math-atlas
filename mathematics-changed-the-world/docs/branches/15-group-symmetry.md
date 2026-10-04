@@ -124,3 +124,9 @@ GNN/CNN → equivariant learning。
 - MacTutor, Development of group theory: https://mathshistory.st-andrews.ac.uk/HistTopics/Development_group_theory/
 - Armstrong, *Groups and Symmetry*.
 - Hall, *Lie Groups, Lie Algebras, and Representations*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P02张禾瑞《近世代数基础》修订本补群、环、域基础；先读映射和代数结构，再连接本页对称性。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#algebra)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

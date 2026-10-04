@@ -985,3 +985,10 @@ $$
   https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.bilinear_zpk.html
 - Oppenheim, Willsky & Nawab, *Signals and Systems*.
 - Oppenheim & Schafer, *Discrete-Time Signal Processing*.
+
+
+## 新增教材阅读入口（2026-10-05）
+
+P01复变函数补解析函数与奇点，L05／L01补ODE，L04补Fourier级数、积分变换及边值问题。不同变换的收敛条件独立核对。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#dynamics)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

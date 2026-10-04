@@ -140,3 +140,9 @@ python labs/01_calculus_accumulation.py
 - MacTutor, Isaac Newton: https://mathshistory.st-andrews.ac.uk/Biographies/Newton/
 - Apostol, *Calculus*.
 - Spivak, *Calculus*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P08陈纪修等《数学分析》第二版；L06常庚哲、史济怀《数学分析教程》第三版上册。先核对极限、连续与积分条件，再用P06／P13补练习。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#analysis)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

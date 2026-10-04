@@ -189,3 +189,9 @@ python labs/07_bayes_update.py
 - MacTutor, Thomas Bayes: https://mathshistory.st-andrews.ac.uk/Biographies/Bayes/
 - MacTutor, Laplace: https://mathshistory.st-andrews.ac.uk/Biographies/Laplace/
 - Gelman et al., *Bayesian Data Analysis*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P11浙江大学《概率论与数理统计》第四版与L07《概率导论》补条件概率和随机变量；L07中文文件缺版权页，引用前补核。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#probability)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

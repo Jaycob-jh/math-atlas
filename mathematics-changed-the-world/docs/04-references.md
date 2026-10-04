@@ -113,3 +113,7 @@
 - Strang；Axler：Linear Algebra。
 - Cover & Thomas：Elements of Information Theory。
 - Boyd & Vandenberghe：Convex Optimization。
+
+## 核心教材补充（2026-10-05）
+
+[教材与本地学习资料](resources/book-library.md)按分析、代数、复变、实变／泛函、概率、方程、优化与算法组织照片书目及本地候选；逐条区分原版、其他版次、目录核对与待确认身份。新增记录见[书目证据表](resources/book-evidence.tsv)，不会将全部现有条目升级为已审读。

@@ -119,3 +119,9 @@ Euler 七桥同时被视作 graph theory 和 topology 的重要源头。
 - MacTutor, *A history of Topology*: https://mathshistory.st-andrews.ac.uk/HistTopics/Topology_in_mathematics/
 - MacTutor, Sainte-Laguë / graph history: https://mathshistory.st-andrews.ac.uk/Extras/Les_reseaux/
 - Diestel, *Graph Theory*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P12 C语言数据结构教材候选与L12 Python数据结构教材补图的表示、遍历与复杂度；P12实体作者／版次仍需版权页确认。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#computing)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

@@ -161,3 +161,9 @@ Fourier transform 进入 characteristic function。
 - MacTutor, Kolmogorov: https://mathshistory.st-andrews.ac.uk/Biographies/Kolmogorov/
 - Billingsley, *Probability and Measure*.
 - Durrett, *Probability: Theory and Examples*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P11浙江大学第四版为基础主线；L07概率导论补概率建模；P10数据分析方法补统计应用。L08陈希孺文件缺扉页，身份与版本仍待补核。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#probability)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

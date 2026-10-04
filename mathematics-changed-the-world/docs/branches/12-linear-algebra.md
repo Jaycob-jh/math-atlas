@@ -139,3 +139,9 @@ GPU/TPU 的核心价值之一，就是把大规模 matrix/tensor operations 做�
 - MacTutor, Matrices and determinants: https://mathshistory.st-andrews.ac.uk/HistTopics/Matrices_and_determinants/
 - Strang, *Linear Algebra and Its Applications*.
 - Trefethen & Bau, *Numerical Linear Algebra*.
+
+## 新增教材阅读入口（2026-10-05）
+
+P03是北大高等代数第四版；L09是姚慕生、谢启鸿第三版学习指导书，二者不是同一本。L11本地2008版矩阵速查与公开2012版分开记录。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#algebra)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

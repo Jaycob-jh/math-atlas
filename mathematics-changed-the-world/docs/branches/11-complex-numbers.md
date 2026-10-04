@@ -131,3 +131,9 @@ $$
 - Needham, *Visual Complex Analysis*.
 - Ahlfors, *Complex Analysis*.
 - MacTutor, Euler: https://mathshistory.st-andrews.ac.uk/Biographies/Euler/
+
+## 新增教材阅读入口（2026-10-05）
+
+P01复变函数第四版补复数、解析函数与复积分，接Euler及留数专题。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#complex)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

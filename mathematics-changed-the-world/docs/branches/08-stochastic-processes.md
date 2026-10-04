@@ -142,3 +142,9 @@ Fourier → characteristic functions / spectral processes。
 - MacTutor, Kiyosi Itô: https://mathshistory.st-andrews.ac.uk/Biographies/Ito/
 - MacTutor, Kolmogorov: https://mathshistory.st-andrews.ac.uk/Biographies/Kolmogorov/
 - Øksendal, *Stochastic Differential Equations*.
+
+## 新增教材阅读入口（2026-10-05）
+
+L07《概率导论》与MIT作者主页提供概率到随机过程的学习入口；中文扫描文件身份前页不齐，不能混用英文版页码。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#probability)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。

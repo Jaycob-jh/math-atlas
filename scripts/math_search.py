@@ -91,7 +91,7 @@ def classify(path: str) -> tuple[str, str]:
         return "最优化课程", "课程与讲义"
     if "/labs/" in path:
         return "实验与运行记录", "实验资料"
-    if "references" in path.lower() or "coverage-matrix" in path:
+    if "/docs/resources/" in path or "references" in path.lower() or "coverage-matrix" in path:
         return "参考资料与覆盖记录", "资料索引"
     if "/docs/" in path:
         return "学习导航", "导航页面"

@@ -270,3 +270,9 @@ Fourier → Lebesgue → $L^2$ Hilbert space → 泛函分析 → 小波 → 现
 - MIT OpenCourseWare RES.6-007, Lecture 22 — The z-Transform: https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/resources/lecture-22-the-z-transform/
 - MIT OpenCourseWare RES.6-007, Lecture 23 — Mapping Continuous-Time Filters to Discrete-Time Filters: https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/resources/lecture-23-mapping-continuous-time-filters-to-discrete-time-filters/
 - Oppenheim & Willsky, *Signals and Systems*.
+
+## 新增教材阅读入口（2026-10-05）
+
+L04数学物理方程辅导书补Fourier级数与分离变量，L01补边值问题。Fourier级数、连续变换与FFT分别阅读。
+
+书目、版本差异与来源证据见[教材资料库](../resources/book-library.md#dynamics)。这些是阅读入口，不表示教材全文或本页全部数学内容已经审计。
