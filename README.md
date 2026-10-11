@@ -1,4 +1,18 @@
-# Math Atlas｜数学知识与应用实验
+# Math Atlas｜已整合到脑科学知识库
+
+数学教程与实验现已整合至 [brain-research-knowledge-base / 17_Mathematics](https://github.com/Jaycob-jh/brain-research-knowledge-base/tree/main/17_Mathematics)。后续内容更新在脑科学知识库维护；本仓库保留迁移前的文件与版本历史。
+
+- [数学模块入口](https://github.com/Jaycob-jh/brain-research-knowledge-base/tree/main/17_Mathematics)
+- [统一关键词、词条和章节检索工具](https://github.com/Jaycob-jh/brain-research-knowledge-base/tree/main/12_Tools/Knowledge_Search)
+- [迁移来源与路径清单](https://github.com/Jaycob-jh/brain-research-knowledge-base/blob/main/17_Mathematics/References/migration.md)
+
+迁移基准为 `math-changed-world` 分支的 `1a7b949d3f7da0d1966db43c926b76f0f7ade851`。目标仓库的访问权限沿用其原有设置。
+
+---
+
+以下为迁移前的使用说明，仅供历史查阅。
+
+# 历史说明：Math Atlas｜数学知识与应用实验
 
 这个仓库将数学概念、历史背景、核心推导与可复现应用实验放在同一条学习路径中。主要内容位于 [`mathematics-changed-the-world/`](mathematics-changed-the-world/)。
 
